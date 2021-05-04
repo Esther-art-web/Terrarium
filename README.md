@@ -1,0 +1,1 @@
+This is my terrarium project for Frontend Foxes WebDev Spring Cohort Bootcamp.
